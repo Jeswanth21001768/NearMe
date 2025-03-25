@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 15-04-2024
+## Date: 15-03-2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -30,9 +30,9 @@ Execute the programs and publish them.
 <html>
     <title>Mycity</title>
     <body bgcolor="white">
-        <h1 align="center"><font color="black">ARAKKONAM</font></h1>
+        <h1 align="center"><font color="black">Royapuram</font></h1>
         <h3 align="center">
-            <font color="red">AJITH KUMAR (212223230009)</font></h3>
+            <font color="red">Jeswanth.S (212221230042)</font></h3>
         <center>
             <img src="map.png" usemap="#image-map">
 
